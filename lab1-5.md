@@ -16,7 +16,7 @@
 
 ---
 
-## Lab 1 — Install Python & Verify
+## Lab 1 — Install Python & Verify:
 
 ### Concept
 Python is a **programming language**, and to run Python code your computer needs the **Python interpreter** — a program that reads your code and executes it line by line.
